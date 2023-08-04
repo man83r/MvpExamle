@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\MVP4triangleArea\MVP4triangleArea\bin\Debug\MVP4triangleArea.exe.config
+C:\Users\User\source\repos\MVP4triangleArea\MVP4triangleArea\bin\Debug\MVP4triangleArea.exe
+C:\Users\User\source\repos\MVP4triangleArea\MVP4triangleArea\bin\Debug\MVP4triangleArea.pdb
+C:\Users\User\source\repos\MVP4triangleArea\MVP4triangleArea\obj\Debug\MVP4triangleArea.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MVP4triangleArea\MVP4triangleArea\obj\Debug\MVP4triangleArea.Form1.resources
+C:\Users\User\source\repos\MVP4triangleArea\MVP4triangleArea\obj\Debug\MVP4triangleArea.Properties.Resources.resources
+C:\Users\User\source\repos\MVP4triangleArea\MVP4triangleArea\obj\Debug\MVP4triangleArea.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MVP4triangleArea\MVP4triangleArea\obj\Debug\MVP4triangleArea.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MVP4triangleArea\MVP4triangleArea\obj\Debug\MVP4triangleArea.exe
+C:\Users\User\source\repos\MVP4triangleArea\MVP4triangleArea\obj\Debug\MVP4triangleArea.pdb

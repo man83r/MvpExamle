@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVP4triangleArea", "MVP4triangleArea\MVP4triangleArea.csproj", "{E5530383-AE7C-442F-82E8-62AA52507331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5530383-AE7C-442F-82E8-62AA52507331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5530383-AE7C-442F-82E8-62AA52507331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5530383-AE7C-442F-82E8-62AA52507331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5530383-AE7C-442F-82E8-62AA52507331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B628DD26-27C1-47A4-B464-587B51AB9F0C}
+	EndGlobalSection
+EndGlobal
